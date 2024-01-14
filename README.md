@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm a KMy2 Tool 🍁</h1>
 <h3 align="center">I'm a beginner programmer who wants to grow</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmy2t" alt="kmy2t" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KMy2T" alt="KMy2T" /></a> </p>
 
 <h3 align="center">ABOUT ME !</h3>
 <p align="center">[ My Recode - My ReModd - My cyberSearch ]</p>
